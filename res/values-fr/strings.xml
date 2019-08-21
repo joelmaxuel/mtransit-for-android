@@ -148,6 +148,8 @@
     <string name="device_settings_location_pref_summary">Améliorer la précision de la détection de la position de l\'appareil</string>
     <string name="device_settings_power_management_pref_title">Gestion de l\'énergie</string>
     <string name="device_settings_power_management_pref_summary">Résoudre les problèmes liés aux optimisations aggressives de la batterie par les fabricants d\'appareils</string>
+    <string name="device_use_location_pref_title">Utiliser le Lieu</string>
+    <string name="device_use_location_pref_summary">Afficher les fonctions GPS et carte</string>
     <string name="feedback_pref_cat_title">Commentaires</string>
     <string name="feedback_email_pref_title">Envoyer un commentaire</string>
     <string name="feedback_email_pref_summary">Signaler un problème ou suggérer une nouvelle fonctionnalité.</string>

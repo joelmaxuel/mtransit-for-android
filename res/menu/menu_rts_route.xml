@@ -5,6 +5,7 @@
     tools:context="org.mtransit.android.MainActivity">
     <item
         android:id="@+id/menu_toggle_list_map"
+        android:dependency="pDeviceUseLocation"
         android:title=""
         android:visible="false"
         app:actionLayout="@layout/layout_menu_action_switch_list_map"

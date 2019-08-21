@@ -37,6 +37,7 @@ public class PreferencesFragment extends MTPreferenceFragment implements SharedP
 	private static final String DEVICE_SETTINGS_GROUP_PREF = "pDeviceSettings";
 	private static final String DEVICE_SETTINGS_LANGUAGE_PREF = "pDeviceSettingsLanguage";
 	private static final String DEVICE_SETTINGS_DATE_AND_TIME_PREF = "pDeviceSettingsDateAndTime";
+	private static final String DEVICE_USE_LOCATION_PREF = "pDeviceUseLocation";
 	private static final String DEVICE_SETTINGS_LOCATION_PREF = "pDeviceSettingsLocation";
 	private static final String DEVICE_SETTINGS_POWER_MANAGEMENT_PREF = "pDeviceSettingsPowerManagement";
 

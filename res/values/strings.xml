@@ -148,6 +148,8 @@
     <string name="device_settings_location_pref_summary">Improve the device location detection accuracy</string>
     <string name="device_settings_power_management_pref_title">Power Management</string>
     <string name="device_settings_power_management_pref_summary">Solve issues with device manufacturers aggressive battery optimizations</string>
+    <string name="device_use_location_pref_title">Use Location</string>
+    <string name="device_use_location_pref_summary">Display GPS and map features</string>
     <string name="feedback_pref_cat_title">Feedback</string>
     <string name="feedback_email_pref_title">Send Feedback</string>
     <string name="feedback_email_pref_summary">Report an issue or suggest a new feature.</string>

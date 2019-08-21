@@ -39,6 +39,11 @@
             android:title="@string/device_settings_date_and_time_pref_title" />
         <Preference
             android:enabled="true"
+            android:key="pDeviceUseLocation"
+            android:summary="@string/device_use_location_pref_summary"
+            android:title="@string/device_use_location_pref_title" />
+        <Preference
+            android:enabled="true"
             android:key="pDeviceSettingsLocation"
             android:summary="@string/device_settings_location_pref_summary"
             android:title="@string/device_settings_location_pref_title" />

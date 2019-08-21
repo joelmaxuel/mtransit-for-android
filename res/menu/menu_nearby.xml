@@ -12,6 +12,7 @@
         tools:visible="true" />
     <item
         android:id="@+id/menu_show_map"
+        android:dependency="pDeviceUseLocation"
         android:icon="@drawable/ic_action_map_dark"
         android:title="@string/menu_action_map"
         app:showAsAction="ifRoom" />
